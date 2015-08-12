@@ -1,0 +1,17 @@
+{
+  "name": "nambot",
+  "version": "1.0.0",
+  "description": "Bot for nam",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Masellis",
+  "license": "MIT",
+  "devDependencies": {
+    "irc": "^0.3.12"
+  },
+  "dependencies": {
+    "twitch-irc": "^1.2.7"
+  }
+}
